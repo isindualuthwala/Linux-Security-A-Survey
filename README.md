@@ -1,10 +1,10 @@
-##🔐 Linux Security: A Survey
-📌 Overview
+# 🔐 Linux Security: A Survey
+## 📌 Overview
 
 This repository contains the research paper “Linux Security: A Survey.”
 It reviews Linux security challenges, common vulnerabilities, and proposed solutions, while also critically evaluating strengths, weaknesses, and areas for further research.
 
-📂 Contents
+## 📂 Contents
 
 Terms of Reference
 
@@ -32,7 +32,7 @@ Conclusion
 
 References
 
-🔑 Key Topics
+## 🔑 Key Topics
 
 Linux security threats: password cracking, open ports, malware, unauthorized access
 
@@ -44,6 +44,6 @@ Critical review of Linux security approaches
 
 Suggestions for future research (malware analysis, SELinux/AppArmor, IoT/Cloud security, automation)
 
-⚙️ Technologies & Concepts
+## ⚙️ Technologies & Concepts
 
 Linux · Firewalls (iptables) · File Permissions · Antivirus (ClamAV) · Password Security · SELinux · AppArmor · IoT & Cloud Security
